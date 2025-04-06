@@ -17,7 +17,7 @@ Tools & Technologies Used
   Map & Location Services: React Native Maps
 Installation & Setup
   Clone the repository:
-    git clone https://github.com/yourusername/repository-name.git
+    git clone [https://github.com/Surya-Prakashh/Ebook_reader.git]
   Navigate to the project directory:
     cd repository-name
 Install dependencies:
